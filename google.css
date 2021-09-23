@@ -1,0 +1,69 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.clear{
+    clear: both;
+}
+.image {
+    height: 130px;
+    margin: 0 10%;
+}
+.google{
+    text-align: center;
+    padding-top: 10px;
+}
+.search {
+    background-color: #EEEEEE;
+    height: 65px;
+    text-align: center;
+    padding: 0px;
+    margin: 0 10%;
+    
+}
+.butoon-bar {
+    margin: 0 10%;
+    line-height: 16px;
+}
+.special{
+    background-color: #7EE5DA;
+    width: 375px;
+    text-align:center;
+    float: left;
+    margin-top: 1px;
+    height: 90px;
+}
+.info{
+    background-color: #70CCC2;
+    width: 250px;
+    float: left;
+    text-align:center;
+    margin-left: 1px;
+    margin-top: 1px;
+    font-size: 13px;
+}
+.archives{
+    background-color: #62B3AA;
+    width: 397px;
+    float: left;
+    text-align:center;
+    margin-left: 1px;
+    margin-top: 1px;
+    font-size: 13px;
+    height: 90px;
+}
+.buttons{
+    padding: 1px;
+}
+.input {
+    padding: 1px;
+    text-align: center; 
+}
+
+.footer{
+    margin: 0 10%;
+    text-align: center;
+}
+.clear2{
+    clear: both;
+}
